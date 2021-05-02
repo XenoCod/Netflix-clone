@@ -1,0 +1,81 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  height: 35px;
+
+  z-index: 1;
+  transition: all 0.5s ease-in-out;
+}
+
+.nav-black {
+  background-color: #111;
+}
+
+.nav-logo {
+  width: 110px;
+  object-fit: contain;
+  left: 30px;
+  position: fixed;
+  cursor: pointer;
+}
+
+.functions > .nav-icon {
+  width: 35px;
+  height: 35px;
+
+  object-fit: contain;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+
+.navbar {
+  color: #fff;
+  display: flex;
+  padding: 15px 40px;
+  position: fixed;
+  left: 120px;
+}
+
+.navbar > p {
+  padding: 0px 20px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.navbar > :hover {
+  opacity: 1;
+}
+
+.functions {
+  color: #fff;
+  font-weight: 100;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 14.4px;
+  padding-top: 6px;
+
+  position: fixed;
+  right: 30px;
+  cursor: pointer;
+  flex: 1;
+}
+.functions > p {
+  padding: 5px 20px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.functions > p:hover {
+  opacity: 1;
+}
+
+.functions > img {
+  height: 25px;
+  width: 25px;
+  padding: 0 10px;
+}
