@@ -1,3 +1,30 @@
+
+# Snapshots
+
+## SignUp Screen
+![s1](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(371).png)
+
+## Login Screen 
+Login with any random mail just make sure to use **@gmail.com** as the domain.
+![s2](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(372).png)
+
+## Profile Screen
+![s3](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(373).png)
+
+## Home Screen
+![s4](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(379).png)
+
+![s5](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(375).png)
+
+![s6](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(376).png)
+
+![s7](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(378).png)
+
+ ## Manage Profile section
+ ![s8](https://github.com/XenoCod/Netflix-clone/blob/5335ce1081d206429aa4c7b1719ad1f243ba1f3f/screenshots/Screenshot%20(374).png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
